@@ -1,3 +1,5 @@
+need to install jinja2
+
 To run the program 
 please do the following in the terminal
 
